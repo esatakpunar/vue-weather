@@ -44,7 +44,6 @@ export default {
         .then(res => res.json())
         .then(result => {
           this.weather = result
-          console.log(this.weather)
         })
     },
     getDate() {
