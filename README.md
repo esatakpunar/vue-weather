@@ -1,5 +1,5 @@
 # vue-weather
-
+https://projects-weather-app.netlify.app/
 ## Project setup
 ```
 yarn install
